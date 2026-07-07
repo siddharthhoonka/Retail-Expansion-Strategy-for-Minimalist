@@ -105,7 +105,6 @@ Based on comprehensive business analysis, the following cities are recommended f
 
 - SQL (PostgreSQL)
 - Python
-- Power BI
 - Business Intelligence
 - Customer Analytics
 - Customer Lifetime Value (CLV)
@@ -113,6 +112,5 @@ Based on comprehensive business analysis, the following cities are recommended f
 - Sales Analytics
 - Market Expansion Strategy
 - Data Visualization
-- Dashboard Development
 - Business Strategy
 - Strategic Decision-Making
