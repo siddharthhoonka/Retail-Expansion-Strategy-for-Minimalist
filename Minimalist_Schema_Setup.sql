@@ -104,11 +104,4 @@ ON products(category);
 CREATE INDEX idx_order_items_product
 ON order_items(product_id);
 
--- =============================================================
--- Data Import Example
--- =============================================================
--- COPY cities FROM '/path/cities.csv' DELIMITER ',' CSV HEADER;
--- COPY customers FROM '/path/customers.csv' DELIMITER ',' CSV HEADER;
--- COPY products FROM '/path/products.csv' DELIMITER ',' CSV HEADER;
--- COPY orders FROM '/path/orders.csv' DELIMITER ',' CSV HEADER;
--- COPY order_items FROM '/path/order_items.csv' DELIMITER ',' CSV HEADER;
+
