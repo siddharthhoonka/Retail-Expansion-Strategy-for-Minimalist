@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of this project is to analyze **120,000+ online skincare transactions** for **Minimalist**, one of India's leading D2C skincare brands. Using **SQL, Python, and Power BI**, this project identifies the most suitable Indian cities for offline retail expansion by analyzing customer purchasing behavior, sales performance, market demand, and financial feasibility.
+The objective of this project is to analyze **120,000+ online skincare transactions** for **Minimalist**, one of India's leading D2C skincare brands. Using **SQL, Python**, this project identifies the most suitable Indian cities for offline retail expansion by analyzing customer purchasing behavior, sales performance, market demand, and financial feasibility.
 
 The recommendations are driven by **business intelligence, customer analytics, market potential analysis, and profitability metrics** to support strategic expansion decisions.
 
