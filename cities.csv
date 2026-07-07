@@ -1,0 +1,11 @@
+city,state,population,average_income,competition_score,rent_index,mall_count,female_population_percent
+Bengaluru,Karnataka,13600000,950000,8,95,45,48
+Hyderabad,Telangana,10800000,820000,7,78,32,49
+Pune,Maharashtra,7400000,780000,6,72,28,48
+Mumbai,Maharashtra,20400000,1200000,10,100,65,48
+Delhi,Delhi,19000000,1100000,9,98,60,47
+Ahmedabad,Gujarat,8000000,700000,5,58,20,48
+Jaipur,Rajasthan,4200000,520000,4,45,15,48
+Indore,Madhya Pradesh,3600000,500000,4,42,12,48
+Lucknow,Uttar Pradesh,3800000,480000,5,40,14,48
+Chandigarh,Chandigarh,1200000,650000,3,55,10,48

@@ -1,0 +1,51 @@
+product_id,category,product_name,cost_price,selling_price
+1,Cleanser,Cleanser 1,774,1038
+2,Cleanser,Cleanser 2,145,576
+3,Cleanser,Cleanser 3,370,748
+4,Cleanser,Cleanser 4,262,516
+5,Cleanser,Cleanser 5,812,1051
+6,Face Wash,Face Wash 1,724,1306
+7,Face Wash,Face Wash 2,152,332
+8,Face Wash,Face Wash 3,215,588
+9,Face Wash,Face Wash 4,358,1025
+10,Face Wash,Face Wash 5,736,913
+11,Moisturizer,Moisturizer 1,694,1047
+12,Moisturizer,Moisturizer 2,853,1432
+13,Moisturizer,Moisturizer 3,345,954
+14,Moisturizer,Moisturizer 4,723,1157
+15,Moisturizer,Moisturizer 5,126,439
+16,Sunscreen,Sunscreen 1,834,1416
+17,Sunscreen,Sunscreen 2,468,902
+18,Sunscreen,Sunscreen 3,279,649
+19,Sunscreen,Sunscreen 4,464,718
+20,Sunscreen,Sunscreen 5,214,753
+21,Vitamin C Serum,Vitamin C Serum 1,219,736
+22,Vitamin C Serum,Vitamin C Serum 2,472,892
+23,Vitamin C Serum,Vitamin C Serum 3,164,784
+24,Vitamin C Serum,Vitamin C Serum 4,669,946
+25,Vitamin C Serum,Vitamin C Serum 5,507,737
+26,Niacinamide Serum,Niacinamide Serum 1,685,1135
+27,Niacinamide Serum,Niacinamide Serum 2,763,1283
+28,Niacinamide Serum,Niacinamide Serum 3,711,1057
+29,Niacinamide Serum,Niacinamide Serum 4,841,1062
+30,Niacinamide Serum,Niacinamide Serum 5,166,549
+31,Retinol Serum,Retinol Serum 1,416,647
+32,Retinol Serum,Retinol Serum 2,358,611
+33,Retinol Serum,Retinol Serum 3,509,943
+34,Retinol Serum,Retinol Serum 4,584,1107
+35,Retinol Serum,Retinol Serum 5,286,815
+36,Face Mask,Face Mask 1,483,847
+37,Face Mask,Face Mask 2,806,1229
+38,Face Mask,Face Mask 3,838,1061
+39,Face Mask,Face Mask 4,743,1068
+40,Face Mask,Face Mask 5,666,1066
+41,Lip Balm,Lip Balm 1,287,910
+42,Lip Balm,Lip Balm 2,508,934
+43,Lip Balm,Lip Balm 3,775,1149
+44,Lip Balm,Lip Balm 4,821,1303
+45,Lip Balm,Lip Balm 5,177,561
+46,Toner,Toner 1,152,625
+47,Toner,Toner 2,530,954
+48,Toner,Toner 3,187,553
+49,Toner,Toner 4,700,1172
+50,Toner,Toner 5,337,998
